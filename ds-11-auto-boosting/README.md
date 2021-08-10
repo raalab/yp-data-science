@@ -8,3 +8,4 @@ ds-11-auto-boosting
 время обучения.
 
 **Выполнено сравнение моделей LightGBM, CatBoost**
+![](/media/ds-11-01.png '')
